@@ -8,7 +8,7 @@ Welcome to exdoc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   
+
    api.rst
 
 
